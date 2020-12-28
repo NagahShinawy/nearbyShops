@@ -1,0 +1,8 @@
+div span {
+    background: red;
+}
+
+hr.new-line {
+    border-top: 1px solid gray;
+}
+
